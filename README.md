@@ -17,6 +17,7 @@ The `SharePointFunction` class is designed to fetch documents from a SharePoint 
 3. **Retrieve Secrets**: The function retrieves necessary secrets (tenant ID, client ID, certificate) from Azure Key Vault.
 4. **Access Token**: It obtains an access token using the Microsoft Identity Client library.
 5. **Fetch Documents**: The function connects to the specified SharePoint library and retrieves a list of documents.
+![image](https://github.com/user-attachments/assets/66cb369d-f358-4074-a07a-cffbe19efa9a)
 
 ### Example Usage
 
